@@ -8,6 +8,6 @@ public class Main {
         Person pr1 = new Person("Ahmed", 20, p1);
 
         // Challenge 2:
-        
+
     }
 }
