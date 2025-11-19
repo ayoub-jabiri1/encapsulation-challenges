@@ -37,10 +37,6 @@ public class Instructor {
     }
 
     public void addCourse(Course c) {
-
-    }
-
-    public void displayCourses() {
-
+        this.courses.add(c);
     }
 }
